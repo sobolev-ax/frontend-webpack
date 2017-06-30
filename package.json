@@ -1,0 +1,15 @@
+{
+  "name": "frontend_webpack",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "webpack"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "style-loader": "^0.18.2",
+    "webpack": "^1.15.0"
+  },
+  "dependencies": {
+    "hash-change": "^0.1.0"
+  }
+}
